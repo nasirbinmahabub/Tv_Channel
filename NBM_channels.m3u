@@ -1,4 +1,6 @@
 #EXTM3U
+
+# --- Group: Bangladesh ---
 #EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="AnandaTV" tvg-name="Ananda TV" group-title="Bangladesh",Ananda TV
@@ -25,9 +27,41 @@ http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="Channel24" tvg-name="Channel 24" group-title="Bangladesh",Channel 24
 http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="News24BD" tvg-name="News24 BD" group-title="Bangladesh",News24 BD
+#EXTINF:-1 tvg-id="News24BD" tvg-name="News 24" group-title="Bangladesh",News 24
 http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" group-title="Bangladesh",Ekhon TV
 http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
 http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="DeeptoTV" tvg-name="Deepto TV" group-title="Bangladesh",Deepto TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245927
+
+# --- Group: New Channels ---
+#EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="New Channels",Hungama
+https://its-ferdos-alom.top/iptv/Op/live.php?id=150480
+#EXTINF:-1 tvg-id="CN" tvg-name="CN" group-title="New Channels",CN
+https://its-ferdos-alom.top/iptv/Op/live.php?id=150478
+#EXTINF:-1 tvg-id="RuposiBangla" tvg-name="Ruposi Bangla" group-title="New Channels",Ruposi Bangla
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245932
+#EXTINF:-1 tvg-id="AkashAath" tvg-name="Akash Aath" group-title="New Channels",Akash Aath
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245928
+#EXTINF:-1 tvg-id="DhoomMusic" tvg-name="Dhoom Music" group-title="New Channels",Dhoom Music
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245921
+#EXTINF:-1 tvg-id="MohonaTV" tvg-name="Mohona TV" group-title="New Channels",Mohona TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245920
+#EXTINF:-1 tvg-id="DBCNews" tvg-name="Dbc News" group-title="New Channels",Dbc News
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245915
+#EXTINF:-1 tvg-id="ChannelI" tvg-name="Channel i" group-title="New Channels",Channel i
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245914
+#EXTINF:-1 tvg-id="BTVChittagong" tvg-name="BTV Chittagong" group-title="New Channels",BTV Chittagong
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245908
+#EXTINF:-1 tvg-id="SunBangla" tvg-name="Sun Bangla" group-title="New Channels",Sun Bangla
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245906
+#EXTINF:-1 tvg-id="MassrangaTV" tvg-name="Massranga TV" group-title="New Channels",Massranga TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245905
+#EXTINF:-1 tvg-id="Channel9" tvg-name="Channel 9" group-title="New Channels",Channel 9
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245903
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" group-title="New Channels",T Sports
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245902
+#EXTINF:-1 tvg-id="JalshaMoviesHD" tvg-name="Jalsha Movies HD" group-title="New Channels",Jalsha Movies HD
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245900
