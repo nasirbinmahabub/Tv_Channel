@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
+http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="AnandaTV" tvg-name="Ananda TV" group-title="Bangladesh",Ananda TV
+http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="BijoyTV" tvg-name="Bijoy TV" group-title="Bangladesh",Bijoy TV
+http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="GreenTV" tvg-name="Green TV" group-title="Bangladesh",Green TV
+http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="AsianTV" tvg-name="Asian TV" group-title="Bangladesh",Asian TV
+http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="ATNBangla" tvg-name="ATN Bangla" group-title="Bangladesh",ATN Bangla
+http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" group-title="Bangladesh",ATN News
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="BanglaTV" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
+http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="BanglaVision" tvg-name="BanglaVision" group-title="Bangladesh",BanglaVision
+http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" group-title="Bangladesh",BTV
+http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
+http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
+http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="Channel24" tvg-name="Channel 24" group-title="Bangladesh",Channel 24
+http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="News24BD" tvg-name="News24 BD" group-title="Bangladesh",News24 BD
+http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" group-title="Bangladesh",Ekhon TV
+http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
+http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
