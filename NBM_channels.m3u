@@ -65,3 +65,10 @@ https://its-ferdos-alom.top/iptv/Op/live.php?id=245928
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" group-title="New Channels",Disney
 http://158.69.52.98:25461/tech48/12345/97
+
+#EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="kids🌝",Hungama
+http://119.152.240.15:8001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" group-title="kids🌝",Disney
+http://119.152.240.15:8001/play/a0ct/index.m3u8
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" group-title="kids🌝",Disney Junior
+http://119.152.240.15:8001/play/a02z/index.m3u8
