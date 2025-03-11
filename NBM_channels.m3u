@@ -73,4 +73,6 @@ http://119.152.240.15:8001/play/a0cs/index.m3u8
 http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" group-title="kids🌝",Disney Junior
 http://119.152.240.15:8001/play/a02z/index.m3u8
+#EXTINF:-1 tvg-id="DisneY" tvg-name="DisneY" group-title="kids🌝",DisneY
+http://119.152.240.15:8001/play/a0cs/index.m3u8
 
