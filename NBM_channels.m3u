@@ -1,6 +1,9 @@
 # --- Group: Bangladesh ---
 #EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Bangladesh",NTV
 http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+# --- Group: Bangladesh ---
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Bangladesh",NTV
+http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="BanglaVision" tvg-name="BanglaVision" group-title="Bangladesh",BanglaVision
 http://103.163.247.39:80/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="ChannelI" tvg-name="Channel I" group-title="Bangladesh",Channel I
@@ -13,16 +16,28 @@ http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 # --- পূর্বের বাংলাদেশ গ্রুপের চ্যানেলগুলি ---
 #EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245925
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" group-title="Bangladesh",BTV
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" group-title="Bangladesh",BTV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245908
 #EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
 http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245917
 #EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245916
 #EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
 http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245916
 #EXTINF:-1 tvg-id="BanglaTV" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="BanglaTV" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
+https://its-ferdos-alom.top/iptv/Op/live.php?id=245913
 #EXTINF:-1 tvg-id="AnandaTV" tvg-name="Ananda TV" group-title="Bangladesh",Ananda TV
 http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="BijoyTV" tvg-name="Bijoy TV" group-title="Bangladesh",Bijoy TV
