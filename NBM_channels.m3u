@@ -77,11 +77,41 @@ http://119.152.240.15:8001/play/a02z/index.m3u8
 https://fifabd.site/JIOBE/play.m3u8?id=1091
 
 #EXTM3U
-#EXTINF:-1 tvg-id="WildNature" tvg-name="Wild Nature" group-title="Documentary🌿",Wild Nature
-https://wildearth-plex.amagi.tv/master.m3u8
-#EXTINF:-1 tvg-id="4KNature" tvg-name="4K Nature" group-title="Documentary🌿",4K Nature
+#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" group-title="Documentary🌿",Discovery Bangla HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi HD" group-title="Documentary🌿",Discovery Hindi HD
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science Multi Audio" group-title="Documentary🌿",Discovery Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="Investigation Discovery Multi Audio" group-title="Documentary🌿",Investigation Discovery
+https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" group-title="Documentary🌿",Animal Planet
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" group-title="Documentary🌿",TLC HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 tvg-id="TravelXPGB" tvg-name="Travel XP GB" group-title="Documentary🌿",Travel XP GB
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="TravelXPNL" tvg-name="Travel XP English NL" group-title="Documentary🌿",Travel XP English NL
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXPEU" tvg-name="Travel XP English EU" group-title="Documentary🌿",Travel XP English EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXPNZ" tvg-name="Travel XP English NZ" group-title="Documentary🌿",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXPSE" tvg-name="Travel XP English SE" group-title="Documentary🌿",Travel XP English SE
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4KTravel" tvg-name="4K Travel" group-title="Documentary🌿",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="RedbullTV" tvg-name="Redbull TV" group-title="Documentary🌿",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-id="XploreTV" tvg-name="Xplore TV" group-title="Documentary🌿",Xplore TV
-https://xlpore-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TraveChannel" tvg-name="Trave Channel" group-title="Documentary🌿",Trave Channel
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" group-title="Documentary🌿",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNatureUHD" tvg-name="Love Nature UHD" group-title="Documentary🌿",Love Nature UHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="Documentary🌿",DMAX
+https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan" tvg-name="Discover Pakistan TV" group-title="Documentary🌿",Discover Pakistan TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" group-title="Documentary🌿",Food Network
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+
+
