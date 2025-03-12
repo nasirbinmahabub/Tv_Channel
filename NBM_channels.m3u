@@ -1,84 +1,4 @@
-# --- Group: Bangladesh ---
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Bangladesh",NTV
-http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
-# --- Group: Bangladesh ---
-#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Bangladesh",NTV
-http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="BanglaVision" tvg-name="BanglaVision" group-title="Bangladesh",BanglaVision
-http://103.163.247.39:80/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="ChannelI" tvg-name="Channel I" group-title="Bangladesh",Channel I
-http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" group-title="Bangladesh",RTV
-http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" group-title="Bangladesh",ATN News
-http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
-
-# --- পূর্বের বাংলাদেশ গ্রুপের চ্যানেলগুলি ---
-#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
-http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="SomoyTV" tvg-name="Somoy TV" group-title="Bangladesh",Somoy TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245925
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" group-title="Bangladesh",BTV
-http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" group-title="Bangladesh",BTV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245908
-#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
-http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="JamunaTV" tvg-name="Jamuna TV" group-title="Bangladesh",Jamuna TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245917
-#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
-http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="IndependentTV" tvg-name="Independent TV" group-title="Bangladesh",Independent TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245916
-#EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
-http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="EkattorTV" tvg-name="Ekattor TV" group-title="Bangladesh",Ekattor TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245916
-#EXTINF:-1 tvg-id="BanglaTV" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
-http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="BanglaTV" tvg-name="Bangla TV" group-title="Bangladesh",Bangla TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245913
-#EXTINF:-1 tvg-id="AnandaTV" tvg-name="Ananda TV" group-title="Bangladesh",Ananda TV
-http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="BijoyTV" tvg-name="Bijoy TV" group-title="Bangladesh",Bijoy TV
-http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="GreenTV" tvg-name="Green TV" group-title="Bangladesh",Green TV
-http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="AsianTV" tvg-name="Asian TV" group-title="Bangladesh",Asian TV
-http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="Channel24" tvg-name="Channel 24" group-title="Bangladesh",Channel 24
-http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="News24BD" tvg-name="News 24" group-title="Bangladesh",News 24
-http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" group-title="Bangladesh",Ekhon TV
-http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="DeeptoTV" tvg-name="Deepto TV" group-title="Bangladesh",Deepto TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245927
-#EXTINF:-1 tvg-id="MohonaTV" tvg-name="Mohona TV" group-title="Bangladesh",Mohona TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245920
-#EXTINF:-1 tvg-id="DBCNews" tvg-name="DBC News" group-title="Bangladesh",DBC News
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245915
-#EXTINF:-1 tvg-id="MassrangaTV" tvg-name="Massranga TV" group-title="Bangladesh",Massranga TV
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245905
-
-# --- Group: New_channels ---
-#EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="New Channels",Hungama
-https://its-ferdos-alom.top/iptv/Op/live.php?id=150480
-#EXTINF:-1 tvg-id="CN" tvg-name="CN" group-title="New Channels",CN
-https://its-ferdos-alom.top/iptv/Op/live.php?id=150478
-#EXTINF:-1 tvg-id="RuposiBangla" tvg-name="Ruposi Bangla" group-title="New Channels",Ruposi Bangla
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245932
-#EXTINF:-1 tvg-id="AkashAath" tvg-name="Akash Aath" group-title="New Channels",Akash Aath
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245928
-#EXTINF:-1 tvg-id="DhoomMusic" tvg-name="Dhoom Music" group-title="New Channels",Dhoom Music
-https://its-ferdos-alom.top/iptv/Op/live.php?id=245
-#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" group-title="New Channels",Disney
-http://158.69.52.98:25461/tech48/12345/97
-
 #EXTM3U
-#EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="kids🌝",Hungama
-http://119.152.240.15:8001/play/a0cs/index.m3u8
-#EXTINF:-1 t#EXTM3U
 
 # --- Group: Bangladesh ---
 #EXTINF:-1 tvg-id="SomoyTV1" tvg-name="Somoy TV (Source 1)" group-title="Bangladesh",Somoy TV (Source 1)
@@ -131,6 +51,16 @@ https://its-ferdos-alom.top/iptv/Op/live.php?id=245915
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245905
 #EXTINF:-1 tvg-id="ChannelI" tvg-name="Channel I" group-title="Bangladesh",Channel I
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245914
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" group-title="Bangladesh",NTV
+http://103.163.247.39:80/local_out/ntv/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="BanglaVision" tvg-name="BanglaVision" group-title="Bangladesh",BanglaVision
+http://103.163.247.39:80/local_out/banglavision/tracks-v1a1/mono.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="ChannelI" tvg-name="Channel I" group-title="Bangladesh",Channel I
+http://103.163.247.39:80/local_out/channeli/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" group-title="Bangladesh",RTV
+http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" group-title="Bangladesh",ATN News
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 
 # --- Group: New_channels ---
 #EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="New Channels",Hungama
@@ -150,52 +80,6 @@ http://158.69.52.98:25461/tech48/12345/97
 #EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="kids🌝",Hungama
 http://119.152.240.15:8001/play/a0cs/index.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" group-title="kids🌝",Disney
-http://119.152.240.15:8001/play/a0ct/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" group-title="kids🌝",Disney Junior
-http://119.152.240.15:8001/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="DisneY" tvg-name="DisneY" group-title="kids🌝",DisneY
-https://fifabd.site/JIOBE/play.m3u8?id=1091
-
-#EXTM3U
-#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" group-title="Documentary🌿",Discovery Bangla HD
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi HD" group-title="Documentary🌿",Discovery Hindi HD
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science Multi Audio" group-title="Documentary🌿",Discovery Science
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="Investigation Discovery Multi Audio" group-title="Documentary🌿",Investigation Discovery
-https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" group-title="Documentary🌿",Animal Planet
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" group-title="Documentary🌿",TLC HD
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
-#EXTINF:-1 tvg-id="TravelXPGB" tvg-name="Travel XP GB" group-title="Documentary🌿",Travel XP GB
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="TravelXPNL" tvg-name="Travel XP English NL" group-title="Documentary🌿",Travel XP English NL
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPEU" tvg-name="Travel XP English EU" group-title="Documentary🌿",Travel XP English EU
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPNZ" tvg-name="Travel XP English NZ" group-title="Documentary🌿",Travel XP English NZ
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPSE" tvg-name="Travel XP English SE" group-title="Documentary🌿",Travel XP English SE
-https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="4KTravel" tvg-name="4K Travel" group-title="Documentary🌿",4K Travel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="TraveChannel" tvg-name="Trave Channel" group-title="Documentary🌿",Trave Channel
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" group-title="Documentary🌿",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNatureUHD" tvg-name="Love Nature UHD" group-title="Documentary🌿",Love Nature UHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" group-title="Documentary🌿",DMAX
-https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan" tvg-name="Discover Pakistan TV" group-title="Documentary🌿",Discover Pakistan TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" group-title="Documentary🌿",Food Network
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-
-
-vg-id="Disney" tvg-name="Disney" group-title="kids🌝",Disney
 http://119.152.240.15:8001/play/a0ct/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" group-title="kids🌝",Disney Junior
 http://119.152.240.15:8001/play/a02z/index.m3u8
