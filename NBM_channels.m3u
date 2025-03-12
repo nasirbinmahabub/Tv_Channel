@@ -1,29 +1,29 @@
 #EXTM3U
 
 # --- Group: Bangladesh ---
-#EXTINF:-1 tvg-id="SomoyTV1" tvg-name="Somoy TV (Source 1)" group-title="Bangladesh",Somoy TV (Source 1)
+#EXTINF:-1 tvg-id="SomoyTV1" tvg-name="Somoy TV (Source 1)" group-title="Bangladesh",Somoy TV 
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="SomoyTV2" tvg-name="Somoy TV (Source 2)" group-title="Bangladesh",Somoy TV (Source 2)
+#EXTINF:-1 tvg-id="SomoyTV2" tvg-name="Somoy TV (Source 2)" group-title="Bangladesh",Somoy TV 
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245925
-#EXTINF:-1 tvg-id="BTV1" tvg-name="BTV (Source 1)" group-title="Bangladesh",BTV (Source 1)
+#EXTINF:-1 tvg-id="BTV1" tvg-name="BTV (Source 1)" group-title="Bangladesh",BTV 
 http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="BTV2" tvg-name="BTV (Source 2)" group-title="Bangladesh",BTV (Source 2)
+#EXTINF:-1 tvg-id="BTV2" tvg-name="BTV (Source 2)" group-title="Bangladesh",BTV 
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245908
-#EXTINF:-1 tvg-id="JamunaTV1" tvg-name="Jamuna TV (Source 1)" group-title="Bangladesh",Jamuna TV (Source 1)
+#EXTINF:-1 tvg-id="JamunaTV1" tvg-name="Jamuna TV (Source 1)" group-title="Bangladesh",Jamuna TV 
 http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="JamunaTV2" tvg-name="Jamuna TV (Source 2)" group-title="Bangladesh",Jamuna TV (Source 2)
+#EXTINF:-1 tvg-id="JamunaTV2" tvg-name="Jamuna TV (Source 2)" group-title="Bangladesh",Jamuna TV 
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245917
-#EXTINF:-1 tvg-id="IndependentTV1" tvg-name="Independent TV (Source 1)" group-title="Bangladesh",Independent TV (Source 1)
+#EXTINF:-1 tvg-id="IndependentTV1" tvg-name="Independent TV (Source 1)" group-title="Bangladesh",Independent TV 
 http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="IndependentTV2" tvg-name="Independent TV (Source 2)" group-title="Bangladesh",Independent TV (Source 2)
+#EXTINF:-1 tvg-id="IndependentTV2" tvg-name="Independent TV (Source 2)" group-title="Bangladesh",Independent TV 
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245916
-#EXTINF:-1 tvg-id="EkattorTV1" tvg-name="Ekattor TV (Source 1)" group-title="Bangladesh",Ekattor TV (Source 1)
+#EXTINF:-1 tvg-id="EkattorTV1" tvg-name="Ekattor TV (Source 1)" group-title="Bangladesh",Ekattor TV 
 http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="EkattorTV2" tvg-name="Ekattor TV (Source 2)" group-title="Bangladesh",Ekattor TV (Source 2)
+#EXTINF:-1 tvg-id="EkattorTV2" tvg-name="Ekattor TV (Source 2)" group-title="Bangladesh",Ekattor TV 
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245916
-#EXTINF:-1 tvg-id="BanglaTV1" tvg-name="Bangla TV (Source 1)" group-title="Bangladesh",Bangla TV (Source 1)
+#EXTINF:-1 tvg-id="BanglaTV1" tvg-name="Bangla TV (Source 1)" group-title="Bangladesh",Bangla TV 
 http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
-#EXTINF:-1 tvg-id="BanglaTV2" tvg-name="Bangla TV (Source 2)" group-title="Bangladesh",Bangla TV (Source 2)
+#EXTINF:-1 tvg-id="BanglaTV2" tvg-name="Bangla TV (Source 2)" group-title="Bangladesh",Bangla TV 
 https://its-ferdos-alom.top/iptv/Op/live.php?id=245913
 #EXTINF:-1 tvg-id="AnandaTV" tvg-name="Ananda TV" group-title="Bangladesh",Ananda TV
 http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
