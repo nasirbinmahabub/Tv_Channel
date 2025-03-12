@@ -76,3 +76,12 @@ http://119.152.240.15:8001/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="DisneY" tvg-name="DisneY" group-title="kids🌝",DisneY
 https://fifabd.site/JIOBE/play.m3u8?id=1091
 
+#EXTM3U
+#EXTINF:-1 tvg-id="WildNature" tvg-name="Wild Nature" group-title="Documentary🌿",Wild Nature
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="4KNature" tvg-name="4K Nature" group-title="Documentary🌿",4K Nature
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="RedbullTV" tvg-name="Redbull TV" group-title="Documentary🌿",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="XploreTV" tvg-name="Xplore TV" group-title="Documentary🌿",Xplore TV
+https://xlpore-samsungus.amagi.tv/playlist.m3u8
