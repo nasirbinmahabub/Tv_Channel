@@ -73,13 +73,59 @@ http://158.69.52.98:25461/tech48/12345/97
 
 #EXTM3U
 #EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="kids🌝",Hungama
-http://119.152.240.15:8001/play/a0cs/index.m3u8
+https://re-streaming-xfireflix.vercel.app/api/OPX/150480.m3u8
 #EXTINF:-1 tvg-id="Disney" tvg-name="Disney" group-title="kids🌝",Disney
-http://119.152.240.15:8001/play/a0ct/index.m3u8
+https://re-streaming-xfireflix.vercel.app/api/OPX/167551.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior" group-title="kids🌝",Disney Junior
-http://119.152.240.15:8001/play/a02z/index.m3u8
-#EXTINF:-1 tvg-id="DisneY" tvg-name="DisneY" group-title="kids🌝",DisneY
-https://fifabd.site/JIOBE/play.m3u8?id=1091
+https://re-streaming-xfireflix.vercel.app/api/OPX/153175.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" group-title="kids🌝",Cartoon Network
+https://re-streaming-xfireflix.vercel.app/api/OPX/150478.m3u8
+#EXTINF:-1 tvg-id="Pogo" tvg-name="Pogo" group-title="kids🌝",Pogo
+https://re-streaming-xfireflix.vercel.app/api/OPX/150483.m3u8
+#EXTINF:-1 tvg-id="SonyYay" tvg-name="Sony Yay" group-title="kids🌝",Sony Yay
+https://re-streaming-xfireflix.vercel.app/api/OPX/26187.m3u8
+#EXTINF:-1 tvg-id="Nick" tvg-name="Nick" group-title="kids🌝",Nick
+https://re-streaming-xfireflix.vercel.app/api/OPX/150482.m3u8
+#EXTINF:-1 tvg-id="NickJunior" tvg-name="Nick Junior" group-title="kids🌝",Nick Junior
+https://re-streaming-xfireflix.vercel.app/api/OPX/153156.m3u8
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids" group-title="kids🌝",Discovery Kids
+https://re-streaming-xfireflix.vercel.app/api/OPX/76723.m3u8
+#EXTINF:-1 tvg-id="NickSonic" tvg-name="Nick Sonic" group-title="kids🌝",Nick Sonic
+https://re-streaming-xfireflix.vercel.app/api/OPX/34011.m3u8
+#EXTINF:-1 tvg-id="NickHD" tvg-name="Nick HD+" group-title="kids🌝",Nick HD+ [FHD]
+https://re-streaming-xfireflix.vercel.app/api/OPX/76722.m3u8
+#EXTINF:-1 tvg-id="KidsZone" tvg-name="Kids Zone+" group-title="kids🌝",Kids Zone+ HD
+https://re-streaming-xfireflix.vercel.app/api/OPX/383066.m3u8
+#EXTINF:-1 tvg-id="MotuPatlu1" tvg-name="Motu Patlu 01" group-title="kids🌝",24/7 MOTU PATLU 01
+https://re-streaming-xfireflix.vercel.app/api/OPX/307079.m3u8
+#EXTINF:-1 tvg-id="MotuPatlu2" tvg-name="Motu Patlu 02" group-title="kids🌝",24/7 MOTU PATLU 02
+https://re-streaming-xfireflix.vercel.app/api/OPX/311373.m3u8
+#EXTINF:-1 tvg-id="Shiva" tvg-name="Shiva" group-title="kids🌝",24/7 SHIVA
+https://re-streaming-xfireflix.vercel.app/api/OPX/342074.m3u8
+#EXTINF:-1 tvg-id="BaalVeer" tvg-name="Baal Veer" group-title="kids🌝",24/7 Baal Veer
+https://re-streaming-xfireflix.vercel.app/api/OPX/340809.m3u8
+#EXTINF:-1 tvg-id="ChachaBhatija" tvg-name="Chacha Bhatija" group-title="kids🌝",24/7 Chacha Bhatija
+https://re-streaming-xfireflix.vercel.app/api/OPX/311774.m3u8
+#EXTINF:-1 tvg-id="WowKids" tvg-name="Wow Kids Action" group-title="kids🌝",24/7 Wow Kids Action
+https://re-streaming-xfireflix.vercel.app/api/OPX/314753.m3u8
+#EXTINF:-1 tvg-id="VirRobot" tvg-name="Vir The Robot Boy" group-title="kids🌝",24/7 Vir The Robot Boy
+https://re-streaming-xfireflix.vercel.app/api/OPX/314754.m3u8
+#EXTINF:-1 tvg-id="Doraemon" tvg-name="Doraemon" group-title="kids🌝",24/7 KIDS | DORAEMON
+https://re-streaming-xfireflix.vercel.app/api/OPX/388459.m3u8
+#EXTINF:-1 tvg-id="ChhotaBheem" tvg-name="Chhota Bheem" group-title="kids🌝",24/7 Chhota Bheem
+https://re-streaming-xfireflix.vercel.app/api/OPX/315401.m3u8
+#EXTINF:-1 tvg-id="TomJerry" tvg-name="Tom & Jerry" group-title="kids🌝",24/7 Tom & Jerry
+https://re-streaming-xfireflix.vercel.app/api/OPX/329247.m3u8
+#EXTINF:-1 tvg-id="ScoobyDoo" tvg-name="Scooby-Doo" group-title="kids🌝",24/7 Scooby-Doo
+https://re-streaming-xfireflix.vercel.app/api/OPX/329248.m3u8
+#EXTINF:-1 tvg-id="KidsMoviesHindi" tvg-name="Kids Movies Hindi" group-title="kids🌝",24/7 KIDS | MOV HINDI
+https://re-streaming-xfireflix.vercel.app/api/OPX/362998.m3u8
+#EXTINF:-1 tvg-id="KidsMovies" tvg-name="Kids Movies" group-title="kids🌝",24/7 KIDS | MOVIES
+https://re-streaming-xfireflix.vercel.app/api/OPX/362999.m3u8
+#EXTINF:-1 tvg-id="KidsMoviesEng1" tvg-name="Kids Movies Eng 01" group-title="kids🌝",24/7 KIDS | MOVIES ENG 01
+https://re-streaming-xfireflix.vercel.app/api/OPX/363000.m3u8
+#EXTINF:-1 tvg-id="KidsMoviesEng2" tvg-name="Kids Movies Eng 02" group-title="kids🌝",24/7 KIDS | MOVIES ENG 02
+https://re-streaming-xfireflix.vercel.app/api/OPX/363001.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" group-title="Documentary🌿",Discovery Bangla HD
