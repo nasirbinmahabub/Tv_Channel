@@ -1,32 +1,41 @@
-
-#PLAYLIST:My 1
-#EXTINF:-1 group-title="My 1" tvg-id="AnimalPlanet" tvg-logo="https://www.pngmart.com/files/22/Animal-Planet-Logo-PNG-File.png",Animal Planet
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/e24.com" group-title="my1", E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/8xm.com" group-title="my1", 8XM
+http://125.209.88.166:45793/BRN/8XM.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/tofan.com" group-title="my1", Tofan
+https://vhoichoi.viewlift.com/Renditions/20240918/1726653787189_88a8sna0ns9a8s7tf/hls/1726653787189_88a8sna0ns9a8s7tf.m3u8
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/boishakhitv.com" group-title="my1", Boishakhi Tv
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/animalplanet.com" group-title="my1", Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="DiscoveryBangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Channel_logo.svg/1200px-Discovery_Channel_logo.svg.png",Discovery Bangla HD
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/discoverybangla.com" group-title="my1", Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="DiscoveryHindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Channel_logo.svg/1200px-Discovery_Channel_logo.svg.png",Discovery Hindi HD
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/tlc.com" group-title="my1", TLC
+https://varun-iptv.netlify.app/m3u/TLC.m3u8
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/spicefmbd.com" group-title="my1", Spice FM BD
+https://stream.spicefmbd.com/stream.m3u8
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/discoveryhindi.com" group-title="my1", Discovery Hindi HD
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Discovery_Science_Logo_2018.png/800px-Discovery_Science_Logo_2018.png",Discovery Science
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/discoveryscience.com" group-title="my1", Discovery Science
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Investigation Discovery
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/investigationdiscovery.com" group-title="my1", Investigation Discovery
 https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TLC_logo_2016.svg/1200px-TLC_logo_2016.svg.png",TLC HD
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="TravelXPGB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Travelxp.png/800px-Travelxp.png",Travel XP (GB)
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/travelxp.com" group-title="my1", Travel XP GB
 https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="4KTravel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/4k-travel-channel-uk.png",4K Travel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="LoveNature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Love_Nature_logo.svg/1200px-Love_Nature_logo.svg.png",Love Nature
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/lovenature.com" group-title="my1", Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_logo_2016.svg/1200px-DMAX_logo_2016.svg.png",DMAX
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/dmax.com" group-title="my1", DMAX
 https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png",Food Network
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/foodnetwork.com" group-title="my1", Food Network
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nick
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/discoverpakistan.com" group-title="my1", Discover Pakistan TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/nick.com" group-title="my1", Nick Hindi
 https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="SonicBangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sonic-bd.png",Sonic Bangla
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/sonic.com" group-title="my1", Sonic Bangla
 https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
-#EXTINF:-1 group-title="My 1" tvg-id="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Pogo_TV_logo.png/800px-Pogo_TV_logo.png",Pogo
+#EXTINF:-1 tvg-logo="https://logo.clearbit.com/pogo.com" group-title="my1", Pogo
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 
 #EXTM3U
