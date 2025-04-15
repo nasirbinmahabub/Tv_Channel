@@ -245,6 +245,30 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="My Collection" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/JnQ6eYR.png",Sony Aath
+https://tataplay.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/L8QZz9P.png",Sony Yay
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/VvVxR0f.png",Sony MAX HD
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/9WkXe2Y.png",Sony MAX
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/r5tG7JL.png",Sony Marathi
+https://tataplay.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/pT4s7nN.png",Sony SAB HD
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/Kbw3DcA.png",SET HD
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/mX8jFfz.png",Sony Pal
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/JqY7R9T.png",Sony MAX 2
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/sM7k0dP.png",Sony WAH
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/4t8WJyB.png",Sony PIX HD
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+#EXTINF:-1 group-title="My Collection" tvg-logo="https://i.imgur.com/3RvL2hG.png",Sony BBC Earth HD
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://lo1.in/ind/fxlfb.png" group-title="AS | INDIA BANGLA",IN| FOX LIFE FHD BANGLA
 http://ckfdagk.megakomo.xyz:900/8457027811/8672671710/400375025
