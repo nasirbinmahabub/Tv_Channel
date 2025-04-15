@@ -1,3 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/somoytv.png",Somoy TV
+http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/anandatv.png",Ananda TV
+http://103.163.247.39/local_out/anandatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/bijoytv.png",Bijoy TV
+http://103.163.247.39/local_out/bijoytv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/greentv.png",Green TV
+http://103.163.247.39/local_out/greentv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/asiantv.png",Asian TV
+http://103.163.247.39/local_out/asiantv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/atnbangla.png",ATN Bangla
+http://103.163.247.39/local_out/atnbangla/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/atnnews.png",ATN News
+http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/banglatv.png",Bangla TV
+http://103.163.247.39/local_out/banglatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/banglavision.png",BanglaVision
+http://103.163.247.39/local_out/banglavision/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/btv.png",BTV
+http://103.163.247.39/local_out/btv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/jamunatv.png",Jamuna TV
+http://103.163.247.39/local_out/jamunatv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/independenttv.png",Independent TV
+http://103.163.247.39/local_out/independenttv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/channel24.png",Channel 24
+http://103.163.247.39/local_out/channel24/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/news24bd.png",News24 BD
+http://103.163.247.39/local_out/news24bd/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/ekhontv.png",Ekhon TV
+http://103.163.247.39/local_out/ekhontv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/ekattortv.png",Ekattor TV
+http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
+#EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/lovenature.png",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+
 # --- Group: Bangladesh ---
 #EXTINF:-1 tvg-id="SomoyTV1" tvg-name="Somoy TV (Source 1)" group-title="Bangladesh",Somoy TV 
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
