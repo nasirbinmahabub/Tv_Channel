@@ -1,3 +1,34 @@
+
+#PLAYLIST:My 1
+#EXTINF:-1 group-title="My 1" tvg-id="AnimalPlanet" tvg-logo="https://www.pngmart.com/files/22/Animal-Planet-Logo-PNG-File.png",Animal Planet
+https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="DiscoveryBangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Channel_logo.svg/1200px-Discovery_Channel_logo.svg.png",Discovery Bangla HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="DiscoveryHindi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Channel_logo.svg/1200px-Discovery_Channel_logo.svg.png",Discovery Hindi HD
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="DiscoveryScience" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Discovery_Science_Logo_2018.png/800px-Discovery_Science_Logo_2018.png",Discovery Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="InvestigationDiscovery" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png",Investigation Discovery
+https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="TLC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TLC_logo_2016.svg/1200px-TLC_logo_2016.svg.png",TLC HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="TravelXPGB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Travelxp.png/800px-Travelxp.png",Travel XP (GB)
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="4KTravel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/4k-travel-channel-uk.png",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="LoveNature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Love_Nature_logo.svg/1200px-Love_Nature_logo.svg.png",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_logo_2016.svg/1200px-DMAX_logo_2016.svg.png",DMAX
+https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="FoodNetwork" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png",Food Network
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="Nick" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nickelodeon_2009_logo.svg/1200px-Nickelodeon_2009_logo.svg.png",Nick
+https://iptvcable.netlify.app/Altogether-007/Cartoon/NickHindi.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="SonicBangla" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sonic-bd.png",Sonic Bangla
+https://iptvcable.netlify.app/Altogether-007/Cartoon/SONIC.m3u8
+#EXTINF:-1 group-title="My 1" tvg-id="Pogo" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/Pogo_TV_logo.png/800px-Pogo_TV_logo.png",Pogo
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
 #EXTM3U
 #EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.sonyliv.com/static-assets/images/channel_logos/SonyMaxHD_logo.png",Sony MAX HD
 http://kst.moonplex.net:8080/CH1/index.m3u8
