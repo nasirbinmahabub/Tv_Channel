@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.sonyliv.com/static-assets/images/channel_logos/SonyMaxHD_logo.png",Sony MAX HD
+http://kst.moonplex.net:8080/CH1/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.tsports.com/images/tsports-logo-hd.png",T Sports HD
+http://kst.moonplex.net:8080/CH2/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.startv.com/assets/images/channel_logos/star-jalsha-hd.png",Star Jalsha HD
+http://kst.moonplex.net:8080/CH3/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.zee5.com/images/ZEE_Bangla_HD.png",Zee Bangla HD
+http://kst.moonplex.net:8080/CH4/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.deptotv.com/wp-content/uploads/2023/01/depto-tv-logo-hd.png",Depto TV HD
+http://kst.moonplex.net:8080/CH5/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.channel9.tv/images/logo-hd.png",Channel9 HD
+http://kst.moonplex.net:8080/CH6/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.ekhontv.com/assets/images/ekhon-tv-hd-logo.png",Ekhon TV HD
+http://kst.moonplex.net:8080/CH7/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.bbc.co.uk/cbeebies/images/cbeebies_logo.png",BBC Cbeebies
+http://kst.moonplex.net:8080/CH8/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.discovery.com/logo-discovery-channel-hd.png",Discovery Channel HD
+http://kst.moonplex.net:8080/CH9/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.arynews.tv/wp-content/uploads/ary-news-hd-logo.png",ARY News HD
+http://kst.moonplex.net:8080/CH10/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.bbc.com/earth/images/bbc-earth-hd-logo.png",BBC Earth HD
+http://kst.moonplex.net:8080/CH11/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.durontotv.com/images/duronto-hd-logo.png",Duronto HD
+http://kst.moonplex.net:8080/CH12/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.9xm.tv/images/9xm-hd-logo.png",9XM HD
+http://kst.moonplex.net:8080/CH13/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.aljazeera.com/assets/images/aljazeera-hd-logo.png",Al Jazeera HD
+http://kst.moonplex.net:8080/CH14/index.m3u8
+#EXTINF:-1 group-title="Premium HD Channels" tvg-logo="https://www.cnn.com/resources/cnn-hd-logo.png",CNN HD
+http://kst.moonplex.net:8080/CH15/index.m3u8
+
+#EXTM3U
 #EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/somoytv.png",Somoy TV
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/anandatv.png",Ananda TV
