@@ -236,44 +236,46 @@ https://re-streaming-xfireflix.vercel.app/api/OPX/363000.m3u8
 https://re-streaming-xfireflix.vercel.app/api/OPX/363001.m3u8
 
 #EXTM3U
-#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.discoverychannel.com.bd/wp-content/uploads/2021/05/discovery-channel-bangla-logo.png" group-title="Documentary🌿",Discovery Bangla HD
+#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Documentary🌿",Discovery Bangla HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Discovery_Channel_India_Logo_2021.svg/1200px-Discovery_Channel_India_Logo_2021.svg.png" group-title="Documentary🌿",Discovery Hindi HD
+#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi HD" tvg-logo="https://www.tvnama.com/img/discovery-hd-logo.png" group-title="Documentary🌿",Discovery Hindi HD
 https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Discovery_Science_2018_logo.svg/1200px-Discovery_Science_2018_logo.svg.png" group-title="Documentary🌿",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science Multi Audio" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="Documentary🌿",Discovery Science
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="Investigation Discovery Multi Audio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Investigation_Discovery_Logo_2018.svg/1200px-Investigation_Discovery_Logo_2018.svg.png" group-title="Documentary🌿",Investigation Discovery
+#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="Investigation Discovery Multi Audio" tvg-logo="https://www.tvnama.com/img/investigation-discovery-logo.png" group-title="Documentary🌿",Investigation Discovery
 https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.svg.png" group-title="Documentary🌿",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Documentary🌿",Animal Planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/TLC_logo_2016.svg/1200px-TLC_logo_2016.svg.png" group-title="Documentary🌿",TLC HD
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
-#EXTINF:-1 tvg-id="TravelXPGB" tvg-name="Travel XP GB" tvg-logo="https://www.travelxp.com/wp-content/uploads/2021/09/travelxp-logo.svg" group-title="Documentary🌿",Travel XP GB
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="TravelXPNL" tvg-name="Travel XP English NL" tvg-logo="https://www.travelxp.com/wp-content/uploads/2021/09/travelxp-logo.svg" group-title="Documentary🌿",Travel XP English NL
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPEU" tvg-name="Travel XP English EU" tvg-logo="https://www.travelxp.com/wp-content/uploads/2021/09/travelxp-logo.svg" group-title="Documentary🌿",Travel XP English EU
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPNZ" tvg-name="Travel XP English NZ" tvg-logo="https://www.travelxp.com/wp-content/uploads/2021/09/travelxp-logo.svg" group-title="Documentary🌿",Travel XP English NZ
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPSE" tvg-name="Travel XP English SE" tvg-logo="https://www.travelxp.com/wp-content/uploads/2021/09/travelxp-logo.svg" group-title="Documentary🌿",Travel XP English SE
-https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="4KTravel" tvg-name="4K Travel" tvg-logo="https://4ktravel.tv/wp-content/uploads/2020/10/4k-travel-tv-logo.png" group-title="Documentary🌿",4K Travel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="TraveChannel" tvg-name="Trave Channel" tvg-logo="https://www.trvlchannel.com/wp-content/uploads/2020/06/trvl-channel-logo.png" group-title="Documentary🌿",Trave Channel
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Love_Nature_logo.svg/1200px-Love_Nature_logo.svg.png" group-title="Documentary🌿",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNatureUHD" tvg-name="Love Nature UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Love_Nature_logo.svg/1200px-Love_Nature_logo.svg.png" group-title="Documentary🌿",Love Nature UHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/DMAX_logo_2014.svg/1200px-DMAX_logo_2014.svg.png" group-title="Documentary🌿",DMAX
-https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://www.discoverpakistan.tv/wp-content/uploads/2021/05/discover-pakistan-tv-logo.png" group-title="Documentary🌿",Discover Pakistan TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="Documentary🌿",Food Network
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Alternate)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.svg.png" group-title="Documentary🌿",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Documentary🌿",Animal Planet
 http://212.102.60.231:80/Animal_Planet/index.m3u8
+#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://www.tvnama.com/img/tlc-hd-logo.png" group-title="Documentary🌿",TLC HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
+#EXTINF:-1 tvg-id="TravelXPGB" tvg-name="Travel XP GB" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_uk.png" group-title="Documentary🌿",Travel XP GB
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-id="TravelXPNL" tvg-name="Travel XP English NL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_nl.png" group-title="Documentary🌿",Travel XP English NL
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXPEU" tvg-name="Travel XP English EU" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_europe.png" group-title="Documentary🌿",Travel XP English EU
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXPNZ" tvg-name="Travel XP English NZ" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_asia.png" group-title="Documentary🌿",Travel XP English NZ
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TravelXPSE" tvg-name="Travel XP English SE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_europe.png" group-title="Documentary🌿",Travel XP English SE
+https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="4KTravel" tvg-name="4K Travel" tvg-logo="https://www.lyngsat.com/logo/tv/44/4k_travel_tv_europe.png" group-title="Documentary🌿",4K Travel
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
+#EXTINF:-1 tvg-id="TraveChannel" tvg-name="Trave Channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_channel_us.png" group-title="Documentary🌿",Trave Channel
+https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
+#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Documentary🌿",Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNatureUHD" tvg-name="Love Nature UHD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_4k.png" group-title="Documentary🌿",Love Nature UHD
+http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax_de.png" group-title="Documentary🌿",DMAX
+https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
+#EXTINF:-1 tvg-id="DiscoverPakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://www.discoverpakistan.tv/wp-content/uploads/2021/08/discover-pakistan-logo.png" group-title="Documentary🌿",Discover Pakistan TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_us.png" group-title="Documentary🌿",Food Network
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
+#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Documentary🌿",Discovery Bangla HD (New Link)
+https://new-iptv-provider.com/discoverybengali.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ" tvg-logo="",📺 Somoy TV
