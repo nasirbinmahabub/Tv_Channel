@@ -273,7 +273,7 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 #EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Food_Network_Logo.svg/1200px-Food_Network_Logo.svg.png" group-title="Documentary🌿",Food Network
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Alternate)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Animal_Planet_logo_2018.svg/1200px-Animal_Planet_logo_2018.svg.png" group-title="Documentary🌿",Animal Planet
-http://212.102.60.231:80/Animal Planet /index.m3u8
+http://212.102.60.231:80/Animal_Planet/index.m3u8
 
 #EXTM3U
 #EXTINF:-1 group-title="🇧🇩 বাংলাদেশ" tvg-logo="",📺 Somoy TV
