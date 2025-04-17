@@ -1,4 +1,20 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="Channel 1" tvg-logo="" group-title="What😵‍💫",Channel 1
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1705/output/index.m3u8
+#EXTINF:-1 tvg-id="2" tvg-name="Channel 2" tvg-logo="" group-title="What😵‍💫",Channel 2
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1706/output/index.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Channel 3" tvg-logo="" group-title="What😵‍💫",Channel 3
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="Channel 4" tvg-logo="" group-title="What😵‍💫",Channel 4
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Channel 5" tvg-logo="" group-title="What😵‍💫",Channel 5
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Channel 6" tvg-logo="" group-title="What😵‍💫",Channel 6
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Channel 7" tvg-logo="" group-title="What😵‍💫",Channel 7
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
+
+#EXTM3U
 #EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Infotainment",Discovery Bangla HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 
