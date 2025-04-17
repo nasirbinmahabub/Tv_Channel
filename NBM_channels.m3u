@@ -1,3 +1,123 @@
+#EXTM3U
+# Playlist grouped by server IP: 38.96.178.201
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.akashaath.tv/wp-content/uploads/2023/02/akash-aath-logo.png",Akash AATH
+http://38.96.178.201/live/AkashAath/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.colorstv.com/bangla/images/colors-bangla-logo.png",Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://i.ibb.co/XXXXXXX/dhoom-music.png",Dhoom Music
+http://38.96.178.201/live/Dhoom/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://i.ibb.co/YYYYYYY/ruposhi.png",Ruposhi Bangla
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.starindia.com/content/dam/starindia/starjalsha/logo.png",Star Jalsha HD
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.disney.in/channels/star-jalsha/jalsha-movies/assets/images/logo.png",Jalsha Movies HD
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.sangeetbangla.com/images/logo.png",Sangeet Bangla
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.sonypictures.com/assets/images/channels/sony-aath-logo.png",Sony AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.tsports.com/images/logo.png",T Sports
+http://38.96.178.201/live/TSports/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.gazitv.com.bd/wp-content/uploads/2022/01/gazi-tv-logo.png",Gazi TV
+http://38.96.178.201/live/GaziTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.ptv.com.pk/wp-content/uploads/2020/04/ptv-sports-logo.png",PTV Sports
+http://38.96.178.201/live/PTVSports/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.asports.tv/wp-content/uploads/2021/06/asports-logo.png",A Sports
+http://38.96.178.201/live/ASports/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.ddsports.in/images/dd-sports-logo.png",DD Sports
+http://38.96.178.201/live/DDSports/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.atnbangla.tv/images/logo.png",ATN Bangla
+http://38.96.178.201/live/ATNBangla/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.atnnews.com/images/logo.png",ATN News
+http://38.96.178.201/live/ATNNews/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.banglatv.com/images/logo.png",Bangla TV
+http://38.96.178.201/live/BanglaTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.banglavision.tv/images/logo.png",BanglaVision
+http://38.96.178.201/live/BanglaVision/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.bijoy.tv/images/logo.png",Bijoy TV
+http://38.96.178.201/live/BijoyTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.btv.gov.bd/images/logo.png",BTV
+http://38.96.178.201/live/BTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.channel9bangla.com/images/logo-header.png",Channel 9
+http://38.96.178.201/live/Channel9/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.channelionline.com/public/frontend/images/logo.png",Channel i
+http://38.96.178.201/live/ChannelI/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.channelstv.com/images/channel-s-logo.jpg",Channel S
+http://38.96.178.201/live/ChannelS/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.ekhontv.com/images/logo.png",Ekhon TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",Jamuna TV
+http://38.96.178.201/live/JamunaTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.ntvbd.com/images/logo.png",NTV
+http://38.96.178.201/live/NTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.gaanbangla.com/images/logo.png",Gaan Bangla
+http://38.96.178.201/live/GaanBangla/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.independent24.com/images/logo.png",Independent
+http://38.96.178.201/live/Independent/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.nexustv.tv/images/logo.png",Nexus TV
+http://38.96.178.201/live/NexusTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.satv.tv/images/logo.png",SATV
+http://38.96.178.201/live/SATV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.sonypictures.com/assets/images/channels/sony-hd-logo.png",Sony HD
+http://38.96.178.201/live/SonyHD/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.andtv.in/images/logo.png",&TV
+http://38.96.178.201/live/AndTV/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.b4umusic.tv/images/logo.png",B4U Music
+http://38.96.178.201/live/B4UMusic/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.startv.com/assets/images/star-plus-logo.png",Star Plus
+http://38.96.178.201/live/StarPlus/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.startv.com/assets/images/star-gold-logo.png",Star Gold
+http://38.96.178.201/live/StarGold/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.zing.com/images/logo.png",Zing
+http://38.96.178.201/live/Zing/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.disney.in/images/disney-channel-logo.png",Disney
+http://38.96.178.201/live/Disney/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.sony.com/images/sony-logo.png",SONY
+http://38.96.178.201/live/SONY/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.disney.in/images/disney-xd-logo.png",Disney XD
+http://38.96.178.201/live/DisneyXD/index.m3u8
+
+#EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.nickjr.com/images/logo.png",Nick Jr
+http://38.96.178.201/live/NickJr/index.m3u8
+
 #EXTM3U x-tvg-url="https://example.com/epg.xml"
 
 #EXTINF:-1 tvg-id="AkashAath.in" group-title="Bangla TV" tvg-logo="https://www.akashaath.tv/wp-content/uploads/2023/02/akash-aath-logo.png",Akash AATH
