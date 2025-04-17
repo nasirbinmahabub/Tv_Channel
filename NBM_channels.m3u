@@ -14,6 +14,66 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1722/output/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="Channel 7" tvg-logo="" group-title="What😵‍💫",Channel 7
 https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/index.m3u8
 
+#EXTINF:-1 tvg-id="ColorsBangla" tvg-name="Colors Bangla" tvg-logo="" group-title="What😵‍💫",Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1 tvg-id="DhoomMusic" tvg-name="Dhoom Music" tvg-logo="" group-title="What😵‍💫",Dhoom Music
+http://38.96.178.201/live/Dhoom/index.m3u8
+#EXTINF:-1 tvg-id="RuposhiBangla" tvg-name="Ruposhi Bangla" tvg-logo="" group-title="What😵‍💫",Ruposhi Bangla
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla" tvg-name="Sangeet Bangla" tvg-logo="" group-title="What😵‍💫",Sangeet Bangla
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath" tvg-name="Sony AATH" tvg-logo="" group-title="What😵‍💫",Sony AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
+#EXTINF:-1 tvg-id="TSports" tvg-name="T Sports" tvg-logo="" group-title="What😵‍💫",T Sports
+http://38.96.178.201/live/TSports/index.m3u8
+#EXTINF:-1 tvg-id="DDSports" tvg-name="DD Sports" tvg-logo="" group-title="What😵‍💫",DD Sports
+http://38.96.178.201/live/DDSports/index.m3u8
+#EXTINF:-1 tvg-id="ATNBangla" tvg-name="ATN Bangla" tvg-logo="" group-title="What😵‍💫",ATN Bangla
+http://38.96.178.201/live/ATNBangla/index.m3u8
+#EXTINF:-1 tvg-id="ATNNews" tvg-name="ATN News" tvg-logo="" group-title="What😵‍💫",ATN News
+http://38.96.178.201/live/ATNNews/index.m3u8
+#EXTINF:-1 tvg-id="BanglaTV" tvg-name="Bangla TV" tvg-logo="" group-title="What😵‍💫",Bangla TV
+http://38.96.178.201/live/BanglaTV/index.m3u8
+#EXTINF:-1 tvg-id="BanglaVision" tvg-name="BanglaVision" tvg-logo="" group-title="What😵‍💫",BanglaVision
+http://38.96.178.201/live/BanglaVision/index.m3u8
+#EXTINF:-1 tvg-id="BijoyTV" tvg-name="Bijoy TV" tvg-logo="" group-title="What😵‍💫",Bijoy TV
+http://38.96.178.201/live/BijoyTV/index.m3u8
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="" group-title="What😵‍💫",BTV
+http://38.96.178.201/live/BTV/index.m3u8
+#EXTINF:-1 tvg-id="EkhonTV" tvg-name="Ekhon TV" tvg-logo="" group-title="What😵‍💫",Ekhon TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
+#EXTINF:-1 tvg-id="NTV" tvg-name="NTV" tvg-logo="" group-title="What😵‍💫",NTV
+http://38.96.178.201/live/NTV/index.m3u8
+#EXTINF:-1 tvg-id="GaanBangla" tvg-name="Gaan Bangla" tvg-logo="" group-title="What😵‍💫",Gaan Bangla
+http://38.96.178.201/live/GaanBangla/index.m3u8
+#EXTINF:-1 tvg-id="Independent" tvg-name="Independent" tvg-logo="" group-title="What😵‍💫",Independent
+http://38.96.178.201/live/Independent/index.m3u8
+#EXTINF:-1 tvg-id="NexusTV" tvg-name="Nexus TV" tvg-logo="" group-title="What😵‍💫",Nexus TV
+http://38.96.178.201/live/NexusTV/index.m3u8
+#EXTINF:-1 tvg-id="SATV" tvg-name="SATV" tvg-logo="" group-title="What😵‍💫",SATV
+http://38.96.178.201/live/SATV/index.m3u8
+#EXTINF:-1 tvg-id="SonyHD" tvg-name="Sony HD" tvg-logo="" group-title="What😵‍💫",Sony HD
+http://38.96.178.201/live/SonyHD/index.m3u8
+#EXTINF:-1 tvg-id="AndTV" tvg-name="&TV" tvg-logo="" group-title="What😵‍💫",&TV
+http://38.96.178.201/live/AndTV/index.m3u8
+#EXTINF:-1 tvg-id="B4UMusic" tvg-name="B4U Music" tvg-logo="" group-title="What😵‍💫",B4U Music
+http://38.96.178.201/live/B4UMusic/index.m3u8
+#EXTINF:-1 tvg-id="StarPlus" tvg-name="Star Plus" tvg-logo="" group-title="What😵‍💫",Star Plus
+http://38.96.178.201/live/StarPlus/index.m3u8
+#EXTINF:-1 tvg-id="StarGold" tvg-name="Star Gold" tvg-logo="" group-title="What😵‍💫",Star Gold
+http://38.96.178.201/live/StarGold/index.m3u8
+#EXTINF:-1 tvg-id="Zing" tvg-name="Zing" tvg-logo="" group-title="What😵‍💫",Zing
+http://38.96.178.201/live/Zing/index.m3u8
+#EXTINF:-1 tvg-id="Disney" tvg-name="Disney" tvg-logo="" group-title="What😵‍💫",Disney
+http://38.96.178.201/live/Disney/index.m3u8
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY" tvg-logo="" group-title="What😵‍💫",SONY
+http://38.96.178.201/live/SONY/index.m3u8
+#EXTINF:-1 tvg-id="DisneyXD" tvg-name="Disney XD" tvg-logo="" group-title="What😵‍💫",Disney XD
+http://38.96.178.201/live/DisneyXD/index.m3u8
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="" group-title="What😵‍💫",Nick Jr
+http://38.96.178.201/live/NickJr/index.m3u8
+
+
 #EXTM3U
 #EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Infotainment",Discovery Bangla HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
