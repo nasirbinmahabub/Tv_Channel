@@ -67,7 +67,6 @@ https://new-iptv-provider.com/discoverybengali.m3u8
 
 #EXTM3U
 # Playlist grouped by server IP: 38.96.178.201
-
 #EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.akashaath.tv/wp-content/uploads/2023/02/akash-aath-logo.png",Akash AATH
 http://38.96.178.201/live/AkashAath/index.m3u8
 
