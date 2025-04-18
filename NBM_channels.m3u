@@ -1,45 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Infotainment",Discovery Bangla HD
-https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi HD" tvg-logo="https://www.tvnama.com/img/discovery-hd-logo.png" group-title="Infotainment",Discovery Hindi HD
-https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience" tvg-name="Discovery Science Multi Audio" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png" group-title="Infotainment",Discovery Science
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscovery" tvg-name="Investigation Discovery Multi Audio" tvg-logo="https://www.tvnama.com/img/investigation-discovery-logo.png" group-title="Infotainment",Investigation Discovery
-https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Infotainment",Animal Planet
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Infotainment",Animal Planet
-http://212.102.60.231:80/Animal_Planet/index.m3u8
-#EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://www.tvnama.com/img/tlc-hd-logo.png" group-title="Infotainment",TLC HD
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
-#EXTINF:-1 tvg-id="TravelXPGB" tvg-name="Travel XP GB" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_uk.png" group-title="Infotainment",Travel XP GB
-https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8
-#EXTINF:-1 tvg-id="TravelXPNL" tvg-name="Travel XP English NL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_nl.png" group-title="Infotainment",Travel XP English NL
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPEU" tvg-name="Travel XP English EU" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_europe.png" group-title="Infotainment",Travel XP English EU
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPNZ" tvg-name="Travel XP English NZ" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_asia.png" group-title="Infotainment",Travel XP English NZ
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TravelXPSE" tvg-name="Travel XP English SE" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_europe.png" group-title="Infotainment",Travel XP English SE
-https://travelxp-travelxp-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="4KTravel" tvg-name="4K Travel" tvg-logo="https://www.lyngsat.com/logo/tv/44/4k_travel_tv_europe.png" group-title="Infotainment",4K Travel
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
-#EXTINF:-1 tvg-id="TraveChannel" tvg-name="Trave Channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_channel_us.png" group-title="Infotainment",Trave Channel
-https://od.lk/s/ODRfNzIxOTE5NjRf/TRVL_Channel.m3u8
 
-#EXTINF:-1 tvg-id="LoveNature" tvg-name="Love Nature" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_ca.png" group-title="Infotainment",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNatureUHD" tvg-name="Love Nature UHD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/love_nature_4k.png" group-title="Infotainment",Love Nature UHD
-http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dmax_de.png" group-title="Infotainment",DMAX
-https://od.lk/s/ODRfNzIxOTE5Njhf/DMAX.m3u8
-#EXTINF:-1 tvg-id="DiscoverPakistan" tvg-name="Discover Pakistan TV" tvg-logo="https://www.discoverpakistan.tv/wp-content/uploads/2021/08/discover-pakistan-logo.png" group-title="Infotainment",Discover Pakistan TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/discoverpakistan.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork" tvg-name="Food Network" tvg-logo="https://www.lyngsat.com/logo/tv/ff/food_network_us.png" group-title="Infotainment",Food Network
-https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
-#EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD (New Link)" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Infotainment",Discovery Bangla HD (New Link)
-https://stream.zenolive.com/discoverybangla.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Documentary🌿",Discovery Bangla HD
