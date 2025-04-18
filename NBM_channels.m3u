@@ -1,6 +1,8 @@
 
 
 #EXTM3U
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Documentary🌿",Animal Planet
+http://212.102.60.231:80/Animal_Planet/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryBangla" tvg-name="Discovery Bangla HD" tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_bangla_in.png" group-title="Documentary🌿",Discovery Bangla HD
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHindi" tvg-name="Discovery Hindi HD" tvg-logo="https://www.tvnama.com/img/discovery-hd-logo.png" group-title="Documentary🌿",Discovery Hindi HD
@@ -11,8 +13,7 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.
 https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Documentary🌿",Animal Planet
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Documentary🌿",Animal Planet
-http://212.102.60.231:80/Animal_Planet/index.m3u8
+
 #EXTINF:-1 tvg-id="TLCHD" tvg-name="TLC HD" tvg-logo="https://www.tvnama.com/img/tlc-hd-logo.png" group-title="Documentary🌿",TLC HD
 https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8
 #EXTINF:-1 tvg-id="TravelXPGB" tvg-name="Travel XP GB" tvg-logo="https://www.lyngsat.com/logo/tv/tt/travel_xp_uk.png" group-title="Documentary🌿",Travel XP GB
