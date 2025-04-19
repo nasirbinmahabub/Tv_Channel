@@ -43,7 +43,6 @@ https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Food-Network.m3u8
 https://new-iptv-provider.com/discoverybengali.m3u8
 
 #EXTM3U
-# Playlist grouped by server IP: 38.96.178.201
 #EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.akashaath.tv/wp-content/uploads/2023/02/akash-aath-logo.png",Akash AATH
 http://38.96.178.201/live/AkashAath/index.m3u8
 
@@ -345,7 +344,7 @@ http://103.163.247.39/local_out/ekattortv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 group-title="Bdix Channels" tvg-logo="https://i.imgur.com/lovenature.png",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
-# --- Group: Bangladesh ---
+#EXTM3U
 #EXTINF:-1 tvg-id="SomoyTV1" tvg-name="Somoy TV (Source 1)" group-title="Bangladesh",Somoy TV 
 http://103.163.247.39/local_out/somoytv/video.m3u8?token=At5F1MFZYnciB3
 #EXTINF:-1 tvg-id="SomoyTV2" tvg-name="Somoy TV (Source 2)" group-title="Bangladesh",Somoy TV 
@@ -404,7 +403,7 @@ http://103.163.247.39:80/local_out/rtv/video.m3u8?token=At5F1MFZYnciB3
 http://103.163.247.39/local_out/atnnews/video.m3u8?token=At5F1MFZYnciB3
 
 
-# --- Group: New_channels ---
+#EXTM3U
 #EXTINF:-1 tvg-id="Hungama" tvg-name="Hungama" group-title="New Channels",Hungama
 https://its-ferdos-alom.top/iptv/Op/live.php?id=150480
 #EXTINF:-1 tvg-id="CN" tvg-name="CN" group-title="New Channels",CN
