@@ -1,0 +1,291 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10 
+
+##############################
+# Discovery & Animal Channels
+############################## 
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in" group-title="Discovery & Animal",Animal Planet (1)
+http://212.102.60.231:80/Animal_Planet/index.m3u8 
+
+#EXTINF:-1 group-title="Discovery & Animal channels", Discovery HD
+http://212.102.60.231:80/Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Discovery & Animal channels", Discovery Science HD
+http://212.102.60.231:80/Discovery_Science_HD/index.m3u8
+#EXTINF:-1 group-title="Discovery & Animal channels", Discovery Turbo HD
+http://212.102.60.231:80/Discovery_Turbo_HD/index.m3u8
+#EXTINF:-1 group-title="Discovery & Animal channels", Discovery ID HD
+http://212.102.60.231:80/Discovery_ID_HD/index.m3u8
+#EXTINF:-1 group-title="Discovery & Animal channels", Investigation Discovery HD
+http://212.102.60.231:80/Investigation_Discovery_HD/index.m3u8
+#EXTINF:-1 group-title="Discovery & Animal channels", Animal Planet HD
+http://212.102.60.231:80/Animal_Planet_HD/index.m3u8
+#EXTINF:-1 group-title="Discovery & Animal channels", TLC HD
+http://212.102.60.231:80/TLC_HD/index.m3u8 
+
+#EXTINF:-1 tvg-id="AnimalPlanet.in" group-title="Discovery & Animal",Animal Planet (2)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8 
+
+#EXTINF:-1 tvg-id="DiscoveryBangla.in" group-title="Discovery & Animal",Discovery Bangla HD
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8 
+
+#EXTINF:-1 tvg-id="DiscoveryHindi.in" group-title="Discovery & Animal",Discovery Hindi HD
+https://varun-iptv.netlify.app/m3u/discoveryhindi.m3u8 
+
+#EXTINF:-1 tvg-id="DiscoveryScience.in" group-title="Discovery & Animal",Discovery Science
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Discovery-Science.m3u8 
+
+#EXTINF:-1 tvg-id="InvestigationDiscovery.in" group-title="Discovery & Animal",Investigation Discovery
+https://od.lk/s/ODRfNzIxOTE5Njdf/Investigation_Discovery.m3u8 
+
+#EXTINF:-1 tvg-id="TLC.in" group-title="Discovery & Animal",TLC HD
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Tlc.m3u8 
+
+#EXTINF:-1 tvg-id="TLC.us" group-title="Discovery & Animal",TLC USA
+http://212.102.60.231:80/TLC_USA/index.m3u8 
+
+#EXTINF:-1 tvg-id="Discovery.us" group-title="Discovery & Animal",Discovery USA
+http://212.102.60.231:80/Discovery_USA/index.m3u8 
+
+#EXTINF:-1 tvg-id="DiscoveryScience.us" group-title="Discovery & Animal",Discovery Science USA
+http://212.102.60.231:80/Discovery_Science_USA/index.m3u8 
+
+#EXTINF:-1 tvg-id="DiscoveryID.us" group-title="Discovery & Animal",Discovery ID USA
+http://212.102.60.231:80/Discovery_ID_USA/index.m3u8 
+
+#EXTINF:-1 tvg-id="DiscoveryTurbo.us" group-title="Discovery & Animal",Discovery Turbo USA
+http://212.102.60.231:80/Discovery_Turbo_USA/index.m3u8 
+
+##############################
+# Travel Channels
+############################## 
+
+#EXTINF:-1 tvg-id="TravelXPGB.uk" group-title="Travel",Travel XP GB
+https://travelxp-travelxp-1-gb.samsung.wurl.tv/3000.m3u8 
+
+#EXTINF:-1 group-title="Travel Channels", Travel XP Global
+http://212.102.60.231:80/Travel_XP_Global/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP English
+http://212.102.60.231:80/Travel_XP_English/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Hindi
+http://212.102.60.231:80/Travel_XP_Hindi/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Tamil
+http://212.102.60.231:80/Travel_XP_Tamil/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Telugu
+http://212.102.60.231:80/Travel_XP_Telugu/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Kannada
+http://212.102.60.231:80/Travel_XP_Kannada/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Bangla
+http://212.102.60.231:80/Travel_XP_Bangla/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Gujarati
+http://212.102.60.231:80/Travel_XP_Gujarati/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Marathi
+http://212.102.60.231:80/Travel_XP_Marathi/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Bhojpuri
+http://212.102.60.231:80/Travel_XP_Bhojpuri/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Punjabi
+http://212.102.60.231:80/Travel_XP_Punjabi/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Malayalam
+http://212.102.60.231:80/Travel_XP_Malayalam/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Oriya
+http://212.102.60.231:80/Travel_XP_Oriya/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Assamese
+http://212.102.60.231:80/Travel_XP_Assamese/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Kashmiri
+http://212.102.60.231:80/Travel_XP_Kashmiri/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Urdu
+http://212.102.60.231:80/Travel_XP_Urdu/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Sindhi
+http://212.102.60.231:80/Travel_XP_Sindhi/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Sanskrit
+http://212.102.60.231:80/Travel_XP_Sanskrit/index.m3u8
+#EXTINF:-1 group-title="Travel Channels", Travel XP Santhali
+http://212.102.60.231:80/Travel_XP_Santhali/index.m3u8 
+
+#EXTINF:-1 tvg-id="TravelXPEnglish.nl" group-title="Travel",Travel XP English NL
+https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8 
+
+#EXTINF:-1 tvg-id="TravelXPEnglish.eu" group-title="Travel",Travel XP English EU
+https://travelxp-travelxp-4-eu.samsung.wurl.tv/playlist.m3u8 
+
+##############################
+# Bangla Entertainment (SD)
+############################## 
+
+#EXTINF:-1 tvg-id="ColorsBangla.in" group-title="Bangla Entertainment",Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8 
+
+#EXTINF:-1 group-title="Bangla Entertainment", Khushboo Bangla HD
+http://212.102.60.231:80/Khushboo_Bangla_HD/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Aakash Aath HD
+http://212.102.60.231:80/Aakash_Aath_HD/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Sun Bangla HD
+http://212.102.60.231:80/Sun_Bangla_HD/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Zee Biskope HD
+http://212.102.60.231:80/Zee_Biskope_HD/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Sony Aath
+http://212.102.60.231:80/Sony_Aath/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Dhoom Music
+http://212.102.60.231:80/Dhoom_Music/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Sangeet Bangla
+http://212.102.60.231:80/Sangeet_Bangla/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Cinema TV India
+http://212.102.60.231:80/Cinema_TV_India/index.m3u8
+#EXTINF:-1 group-title="Bangla Entertainment", Colors Bangla Cinema
+http://212.102.60.231:80/Colors_Bangla_Cinema/index.m3u8 
+
+#EXTINF:-1 group-title="Bangla Entertainment", Zee Biskope
+http://212.102.60.231:80/Zee_Biskope/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="StarJalsha.in" group-title="Bangla Entertainment",Star Jalsha
+http://38.96.178.201/live/StarJalsha/index.m3u8 
+
+#EXTINF:-1 tvg-id="ZeeBangla.in" group-title="Bangla Entertainment",Zee Bangla
+http://38.96.178.201/live/ZeeBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="SunBangla.in" group-title="Bangla Entertainment",Sun Bangla
+http://38.96.178.201/live/SunBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="SonyAath.in" group-title="Bangla Entertainment",Sony Aath
+http://38.96.178.201/live/SonyAath/index.m3u8 
+
+#EXTINF:-1 tvg-id="SangeetBangla.in" group-title="Bangla Entertainment",Sangeet Bangla (1)
+http://38.96.178.201/live/SangeetBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="SangeetBangla.in" group-title="Bangla Entertainment",Sangeet Bangla (2)
+http://38.96.178.201/live/SangeetBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="ColorsBanglaCinema.in" group-title="Bangla Entertainment",Colors Bangla Cinema
+http://38.96.178.201/live/ColorsBanglaCinema/index.m3u8 
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" group-title="Bangla Entertainment",Zee Bangla Cinema
+http://38.96.178.201/live/ZeeBanglaCinema/index.m3u8 
+
+#EXTINF:-1 tvg-id="AakashAath.in" group-title="Bangla Entertainment",Aakash Aath
+http://38.96.178.201/live/AakashAath/index.m3u8 
+
+#EXTINF:-1 tvg-id="KhushbooBangla.in" group-title="Bangla Entertainment",Khushboo Bangla
+http://38.96.178.201/live/KhushbooBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="Enterr10Bangla.in" group-title="Bangla Entertainment",Enterr10 Bangla
+http://38.96.178.201/live/Enterr10Bangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="JalshaMovies.in" group-title="Bangla Entertainment",Jalsha Movies
+http://38.96.178.201/live/JalshaMovies/index.m3u8 
+
+#EXTINF:-1 tvg-id="DhoomMusic.in" group-title="Bangla Entertainment",Dhoom Music
+http://38.96.178.201/live/DhoomMusic/index.m3u8 
+
+#EXTINF:-1 tvg-id="RupasiBangla.in" group-title="Bangla Entertainment",Rupasi Bangla
+http://38.96.178.201/live/RupasiBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="CinemaTVIndia.in" group-title="Bangla Entertainment",Cinema TV India
+http://38.96.178.201/live/CinemaTVIndia/index.m3u8 
+
+#EXTINF:-1 tvg-id="ColorsCineplexBangla.in" group-title="Bangla Entertainment",Colors Cineplex Bangla
+http://38.96.178.201/live/ColorsCineplexBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="ZeeBiskope.in" group-title="Bangla Entertainment",Zee Biskope
+http://38.96.178.201/live/ZeeBiskope/index.m3u8 
+
+##############################
+# Bangla News
+############################## 
+
+#EXTINF:-1 tvg-id="ABPAnanda.in" group-title="Bangla News",ABP Ananda
+http://38.96.178.201/live/ABPAnanda/index.m3u8 
+
+#EXTINF:-1 group-title="Bangla News", TLC
+https://varun-iptv.netlify.app/m3u/tlc.m3u8
+#EXTINF:-1 group-title="Bangla News", Discovery
+https://varun-iptv.netlify.app/m3u/discovery.m3u8
+#EXTINF:-1 group-title="Bangla News", Discovery Science
+https://varun-iptv.netlify.app/m3u/discoveryscience.m3u8
+#EXTINF:-1 group-title="Bangla News", Discovery Turbo
+https://varun-iptv.netlify.app/m3u/discoveryturbo.m3u8
+#EXTINF:-1 group-title="Bangla News", Discovery ID
+https://varun-iptv.netlify.app/m3u/discoveryid.m3u8
+#EXTINF:-1 group-title="Bangla News", Investigation Discovery
+https://varun-iptv.netlify.app/m3u/investigationdiscovery.m3u8
+#EXTINF:-1 group-title="Bangla News", Animal Planet
+https://varun-iptv.netlify.app/m3u/animalplanet.m3u8 
+
+#EXTINF:-1 tvg-id="News18Bangla.in" group-title="Bangla News",News18 Bangla
+http://38.96.178.201/live/News18Bangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="TV9Bangla.in" group-title="Bangla News",TV9 Bangla
+http://38.96.178.201/live/TV9Bangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="RepublicBangla.in" group-title="Bangla News",Republic Bangla
+http://38.96.178.201/live/RepublicBangla/index.m3u8 
+
+#EXTINF:-1 tvg-id="CalcuttaNews.in" group-title="Bangla News",Calcutta News
+http://38.96.178.201/live/CalcuttaNews/index.m3u8 
+
+##############################
+# Bangla HD Channels
+############################## 
+
+#EXTINF:-1 tvg-id="ZeeBanglaHD.in" group-title="Bangla HD",Zee Bangla HD
+https://zeeiptv.netlify.app/Bangla/ZeeBangla_HD.m3u8 
+
+#EXTINF:-1 group-title="Bangla HD Channels", Colors Bangla Cinema
+https://varun-iptv.netlify.app/m3u/colorsbanglacinema.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels", Zee Biskope
+https://varun-iptv.netlify.app/m3u/zeebiskope.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels", Sony Aath
+https://varun-iptv.netlify.app/m3u/sonyaath.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels", Dhoom Music
+https://varun-iptv.netlify.app/m3u/dhoommusic.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels", Sangeet Bangla
+https://varun-iptv.netlify.app/m3u/sangeetbangla.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels", Cinema TV India
+https://varun-iptv.netlify.app/m3u/cinematvindia.m3u8" 
+
+#EXTINF:-1 group-title="Bangla HD Channels",Republic Bangla HD
+https://zeeiptv.netlify.app/Bangla/Republic_Bangla_HD.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels",Rupasi Bangla HD
+https://zeeiptv.netlify.app/Bangla/Rupasi_Bangla_HD.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels",Khushboo Bangla HD
+https://zeeiptv.netlify.app/Bangla/Khushboo_Bangla_HD.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels",Calcutta News HD
+https://zeeiptv.netlify.app/Bangla/Calcutta_News_HD.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels",Colors Cineplex Bangla HD
+https://zeeiptv.netlify.app/Bangla/Colors_Cineplex_Bangla_HD.m3u8
+#EXTINF:-1 group-title="Bangla HD Channels",Zee Biskope HD
+https://zeeiptv.netlify.app/Bangla/Zee_Biskope_HD.m3u8 
+
+#EXTINF:-1 tvg-id="StarJalshaHD.in" group-title="Bangla HD",Star Jalsha HD
+https://zeeiptv.netlify.app/Bangla/StarJalsha_HD.m3u8 
+
+#EXTINF:-1 tvg-id="ZeeBanglaCinemaHD.in" group-title="Bangla HD",Zee Bangla Cinema HD
+https://zeeiptv.netlify.app/Bangla/ZeeBangla_Cinema_HD.m3u8 
+
+#EXTINF:-1 tvg-id="ColorsBanglaHD.in" group-title="Bangla HD",Colors Bangla HD
+https://zeeiptv.netlify.app/Bangla/ColorsBangla_HD.m3u8 
+
+#EXTINF:-1 tvg-id="JalshaMoviesHD.in" group-title="Bangla HD",Jalsha Movies HD
+https://zeeiptv.netlify.app/Bangla/Jalsha_Movies_HD.m3u8 
+
+#EXTINF:-1 tvg-id="SunBanglaHD.in" group-title="Bangla HD",Sun Bangla HD
+https://zeeiptv.netlify.app/Bangla/Sun_Bangla_HD.m3u8 
+
+#EXTINF:-1 tvg-id="AakashAathHD.in" group-title="Bangla HD",Aakash Aath HD
+https://zeeiptv.netlify.app/Bangla/Aakash_Aath_HD.m3u8 
+
+#EXTINF:-1 tvg-id="Enterr10BanglaHD.in" group-title="Bangla HD",Enterr10 Bangla HD
+https://zeeiptv.netlify.app/Bangla/Enterr10_Bangla_HD.m3u8 
+
+#EXTINF:-1 tvg-id="ABPAnandaHD.in" group-title="Bangla HD",ABP Ananda HD
+https://zeeiptv.netlify.app/Bangla/ABP_Ananda_HD.m3u8 
+
+#EXTINF:-1 tvg-id="News18BanglaHD.in" group-title="Bangla HD",News18 Bangla HD
+https://zeeiptv.netlify.app/Bangla/News18_Bangla_HD.m3u8 
+
+#EXTINF:-1 tvg-id="TV9BanglaHD.in" group-title="Bangla HD",TV9 Bangla HD
+https://zeeiptv.netlify.app/Bangla/TV9_Bangla_HD.m3u8
