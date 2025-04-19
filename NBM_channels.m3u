@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JamunaTV.in" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",Jamuna TV
-http://38.96.178.201/live/JamunaTV/index.m3u8
 #EXTINF:-1 tvg-id="ZeeBanglaCinema.in" group-title="Bangla TV" tvg-logo="https://www.zee5.com/images/ZEE5_logo.svg",Zee Bangla Cinema
 https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 #EXTINF:-1 tvg-id="AkashAath.in" group-title="Bangla TV" tvg-logo="https://www.akashaath.tv/wp-content/uploads/2023/02/akash-aath-logo.png",Akash AATH
@@ -71,6 +69,8 @@ https://new-iptv-provider.com/discoverybengali.m3u8
 
 #EXTM3U
 # Playlist grouped by server IP: 38.96.178.201
+#EXTINF:-1 tvg-id="JamunaTV.in" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",Jamuna TV
+http://38.96.178.201/live/JamunaTV/index.m3u8
 #EXTINF:-1 group-title="38.96.178.201" tvg-logo="https://www.akashaath.tv/wp-content/uploads/2023/02/akash-aath-logo.png",Akash AATH
 http://38.96.178.201/live/AkashAath/index.m3u8
 
