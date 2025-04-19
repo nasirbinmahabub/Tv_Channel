@@ -13,16 +13,22 @@ http://212.102.60.231:80/Animal_Planet/index.m3u8
 
 #EXTINF:-1 group-title="Discovery & Animal channels", Discovery HD
 http://212.102.60.231:80/Discovery_HD/index.m3u8
+
 #EXTINF:-1 group-title="Discovery & Animal channels", Discovery Science HD
 http://212.102.60.231:80/Discovery_Science_HD/index.m3u8
+
 #EXTINF:-1 group-title="Discovery & Animal channels", Discovery Turbo HD
 http://212.102.60.231:80/Discovery_Turbo_HD/index.m3u8
+
 #EXTINF:-1 group-title="Discovery & Animal channels", Discovery ID HD
 http://212.102.60.231:80/Discovery_ID_HD/index.m3u8
+
 #EXTINF:-1 group-title="Discovery & Animal channels", Investigation Discovery HD
 http://212.102.60.231:80/Investigation_Discovery_HD/index.m3u8
+
 #EXTINF:-1 group-title="Discovery & Animal channels", Animal Planet HD
 http://212.102.60.231:80/Animal_Planet_HD/index.m3u8
+
 #EXTINF:-1 group-title="Discovery & Animal channels", TLC HD
 http://212.102.60.231:80/TLC_HD/index.m3u8 
 
