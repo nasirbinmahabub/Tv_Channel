@@ -21,6 +21,8 @@ http://38.96.178.201/live/ChannelS/index.m3u8
 http://38.96.178.201/live/EkhonTV/index.m3u8
 #EXTINF:-1 tvg-id="JamunaTV.in" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",Jamuna TV
 http://38.96.178.201/live/JamunaTV/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" tvg-name="Zee Bangla Cinema" tvg-logo="https://i.imgur.com/YOURLOGO.png" group-title="Bangla TV",Zee Bangla Cinema
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
 
 #EXTM3U
 #EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal_planet_in.png" group-title="Documentary🌿",Animal Planet
