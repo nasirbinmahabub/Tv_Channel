@@ -1,4 +1,28 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="JamunaTV.in" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",Jamuna TV
+http://38.96.178.201/live/JamunaTV/index.m3u8
+#EXTINF:-1 tvg-id="ZeeBanglaCinema.in" group-title="Bangla TV" tvg-logo="https://www.zee5.com/images/ZEE5_logo.svg",Zee Bangla Cinema
+https://live.drmlive-02.workers.dev/zee/zeebanglacinema.m3u8
+#EXTINF:-1 tvg-id="AkashAath.in" group-title="Bangla TV" tvg-logo="https://www.akashaath.tv/wp-content/uploads/2023/02/akash-aath-logo.png",Akash AATH
+http://38.96.178.201/live/AkashAath/index.m3u8
+#EXTINF:-1 tvg-id="ColorsBangla.in" group-title="Bangla TV" tvg-logo="https://www.colorstv.com/bangla/images/colors-bangla-logo.png",Colors Bangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+#EXTINF:-1 tvg-id="StarJalsha.in" group-title="Bangla TV" tvg-logo="https://www.starindia.com/content/dam/starindia/starjalsha/logo.png",Star Jalsha HD
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+#EXTINF:-1 tvg-id="JalshaMovies.in" group-title="Bangla TV" tvg-logo="https://www.disney.in/channels/star-jalsha/jalsha-movies/assets/images/logo.png",Jalsha Movies HD
+http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1 tvg-id="SangeetBangla.in" group-title="Bangla TV" tvg-logo="https://www.sangeetbangla.com/images/logo.png",Sangeet Bangla
+http://38.96.178.201/live/SangeetBangla/index.m3u8
+#EXTINF:-1 tvg-id="SonyAath.in" group-title="Bangla TV" tvg-logo="https://www.sonypictures.com/assets/images/channels/sony-aath-logo.png",Sony AATH
+http://38.96.178.201/live/SonyAath/index.m3u8
+#EXTINF:-1 tvg-id="Channel9.in" group-title="Bangla TV" tvg-logo="https://www.channel9bangla.com/images/logo-header.png",Channel 9
+http://38.96.178.201/live/Channel9/index.m3u8
+#EXTINF:-1 tvg-id="ChannelI.in" group-title="Bangla TV" tvg-logo="https://www.channelionline.com/public/frontend/images/logo.png",Channel i
+http://38.96.178.201/live/ChannelI/index.m3u8
+#EXTINF:-1 tvg-id="ChannelS.in" group-title="Bangla TV" tvg-logo="https://www.channelstv.com/images/channel-s-logo.jpg",Channel S
+http://38.96.178.201/live/ChannelS/index.m3u8
+#EXTINF:-1 tvg-id="EkhonTV.in" group-title="Bangla TV" tvg-logo="https://www.ekhontv.com/images/logo.png",Ekhon TV
+http://38.96.178.201/live/EkhonTV/index.m3u8
 
 
 
